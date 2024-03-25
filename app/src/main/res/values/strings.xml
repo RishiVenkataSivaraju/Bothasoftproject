@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application3</string>
+    <string name="not_yet_registered_signup_now">Not yet registered? SignUp Now</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="logins">Login</string>
+    <string name="phone" />
+</resources>
